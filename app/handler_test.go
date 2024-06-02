@@ -11,7 +11,6 @@ import (
 	"github.com/aakashkaji/empolyee-go/app/internal/service"
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/assert/v2"
-	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 )
 
